@@ -494,7 +494,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #subscribe .block p {
   padding: 25px 0px;
-  color: #fff;
+  color: yellow;
   font-size: 18px;
 }
 #subscribe .block form .form-control {
